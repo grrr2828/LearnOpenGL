@@ -6,12 +6,14 @@
             "compilerPath": "C:/Program Files/LLVM/bin/gcc.exe",
             "includePath": [
                 "${workspaceFolder}",
+                "${workspaceFolder}/inclue",
                 "${workspaceFolder}/openGL/include"
             ],
             "defines": [],
             "browse": {
                 "path": [
                     "${workspaceFolder}",
+                    "${workspaceFolder}/inclue",
                     "${workspaceFolder}/openGL/include"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
